@@ -6,11 +6,11 @@ How to use [Android Debug Bridge](https://developer.android.com/tools/adb) (ADB)
     2.   Fawaz Ahmed's [Latest ADB Fastboot and USB driver installer tool](https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows)
     3.   Corbin Davenport's [Nexus Tools](https://github.com/corbindavenport/nexus-tools).
 
-2. Power on your device normally and connect it to your PC using USB cable.
+2. Power on your device normally and connect it to your computer using USB cable.
 
-3. Go the folder where the adb drivers are installed. (In most cases they are installed in the C Drive (Windows Drive))
+3. Go the folder where the ADB drivers are installed. (In most cases they are installed in the C Drive (Windows Drive))
 
-4. Hold down Shift, right-click anywhere blank in the ADB folder, and select "Open command window here".
+4. Hold down <kbd>Shift</kbd>, right-click anywhere blank in the ADB folder, and select "Open command window here".
 
 To remove FRP on **_Samsung devices_** via ADB commands: Type the following ADB FRP bypass command into the Command Prompt window one by one hitting Enter after each line.
 ```
